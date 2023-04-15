@@ -1,0 +1,136 @@
+body{
+    background-color: #F8EACA;
+}
+
+h1
+{
+    border: solid;
+    border-color:#9B6BC9 ;
+    padding: 30px;
+    color:#9B6BC9;
+    font-family:verdana;
+    font-size:300%;
+    
+}
+
+body .Interview-like-Journalist{
+    max-width: 6%;
+    height: auto;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 120%;
+    color: #dc6744;
+}
+
+h2{
+    text-align: center;
+    border-color:#9B6BC9 ;
+    padding: 30px;
+    color:#9B6BC9;
+    font-family:verdana;
+    font-size:150%;
+}
+
+
+
+
+body .img1{
+    max-width:50%;
+    height: auto;
+}
+
+
+body .img2{
+    max-width:50%;
+    height: auto;
+}
+
+body .img3{
+    max-width:50%;
+    height: auto;
+}
+
+body .img4{
+    max-width:100%;
+    height: auto;
+}
+
+body .img5{
+    max-width:30%;
+    height: auto;
+}
+
+body .img6{
+    max-width:30%;
+    height: auto;
+}
+
+body .img7{
+    max-width:30%;
+    height: auto;
+}
+
+body .img8{
+    max-width:30%;
+    height: auto;
+}
+
+
+body .img9{
+    max-width:30%;
+    height: auto;
+}
+
+body .img10{
+    max-width:30%;
+    height: auto;
+}
+
+body .img11{
+    max-width:30%;
+    height: auto;
+}
+
+body .img12{
+    max-width:30%;
+    height: auto;
+}
+
+body .img13{
+    max-width:30%;
+    height: auto;
+}
+
+body .img14{
+    max-width:30%;
+    height: auto;
+}
+
+h3{text-align: center;
+    border-style: outset;
+    border-color: #9B6BC9;
+
+}
+
+h4{text-align: center;
+    border-color: #000000;
+    font-size:100%}
+
+h5 {text-align: center;
+    border-color: #000000;}
+
+h6{text-align: center;
+    border-style: outset;
+    border-color: #000000;
+    font-size:100%}
+
+li{text-align: center;
+    border-color: #000000;
+    }
+
+
+p{text-align: center;
+    border-color: #000000;
+    font-size:100%}
